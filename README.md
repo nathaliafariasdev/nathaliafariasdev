@@ -9,8 +9,8 @@ I work at the intersection of scientific data and machine learning — building 
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=7aa2f7)
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=9d7cd8)
-![Pandas](https://img.shields.io/badge/Pandas-161b22?style=for-the-badge&logo=pandas&logoColor=9d7cd8)
+![PyTorch](https://custom-icon-badges.demolab.com/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=9d7cd8)
+![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-161b22?style=for-the-badge&logo=pandas&logoColor=9d7cd8)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-161b22?style=for-the-badge&logo=python&logoColor=7aa2f7)
 ![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=9d7cd8)
 ![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=7aa2f7)
